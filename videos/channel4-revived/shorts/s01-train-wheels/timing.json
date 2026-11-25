@@ -1,0 +1,46 @@
+{
+ "fps": 24,
+ "note": "Estimated for script v3 (140 words). Replace with the real voice timings; build.py reads these.",
+ "shots": [
+  {
+   "id": "S1_wheel_question",
+   "start": 0,
+   "end": 5
+  },
+  {
+   "id": "S2_car_diff",
+   "start": 5,
+   "end": 9
+  },
+  {
+   "id": "S3_axle_and_curve",
+   "start": 9,
+   "end": 16
+  },
+  {
+   "id": "S4_cone",
+   "start": 16,
+   "end": 21
+  },
+  {
+   "id": "S5_shift",
+   "start": 21,
+   "end": 29
+  },
+  {
+   "id": "S6_bogie",
+   "start": 29,
+   "end": 31
+  },
+  {
+   "id": "S7_hunting",
+   "start": 31,
+   "end": 38
+  },
+  {
+   "id": "S8_train_wide",
+   "start": 38,
+   "end": 45
+  }
+ ]
+}

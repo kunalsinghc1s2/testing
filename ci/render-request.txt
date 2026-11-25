@@ -1,0 +1,8 @@
+# Change this file and push to start a render.
+SHORT=s01-train-wheels
+NAME=train-wheels-fullquality-sample
+PCT=67            # size, percent of 1080x1920
+SPP=32            # samples (quality)
+FIRST=1           # first frame
+LAST=24           # last frame (24 frames = 1 second)
+FRAMES_PER_JOB=2  # frames each machine renders
